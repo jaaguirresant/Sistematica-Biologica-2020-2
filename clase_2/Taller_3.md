@@ -53,6 +53,6 @@ Abrir la herramienta [Nextstrain](https://nextstrain.org/), seleccionar los caso
 
 8. Entre el 15 de febrero y 20 de marzo se cerraron la mayoría de aeropuertos en el mundo y se cerraron muchas fronteras. ¿Que patrón observa en el árbol filogenético antes y despues de este rango de fechas y como lo interpreta?
 
-9. Nueva Zelanda tuvo una de las mejores respuestas a la crisis generada por la pandemia en el mundo. Usando la herrmaienta Nexstrain, describa como ha sido la historia de contagios de coronavirus en este país y compárela con la historia de contagios en su país de estudio.
+9. Nueva Zelanda tuvo una de las mejores respuestas a la crisis generada por la pandemia en el mundo. Usando la herrmaienta Nexstrain, describa como ha sido la historia de contagios de coronavirus en este país y compárela con la historia de contagios en su país de estudio. (**Nota:** Para encontrar Nueva Zelanda es necesario buscarla como "Oceanía" e ignorar los casos de Australia.)
 
 10. ¿Qué otro patrón interesante ve en el árbol filogenético sobre la propagación del virus en su país de estudio?
