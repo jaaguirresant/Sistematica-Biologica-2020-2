@@ -9,7 +9,7 @@
 
 ## MUESTREO DE TAXONES:
 
-2. ¿Cuál es la intención de escoger un o varios grupos ajenos?
+2. ¿Cuál es la intención de escoger uno o varios grupos ajenos?
 
    a. Para incluirlos en un futuro tratamiento taxonómico.
    
