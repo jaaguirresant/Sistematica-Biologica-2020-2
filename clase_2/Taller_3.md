@@ -41,7 +41,7 @@ Ver el video ["Real-time Tracking of Virus Evolution"](https://youtu.be/Ok2iZ9-c
 
 #
 
-Abrir la herramienta [Nextstrain](https://nextstrain.org/), seleccionar los casos de SARS-CoV-2 en un país del continente que le corresponda y responder las siguientes preguntas (**Grupo 1: Europa, Grupo 2: Norte América, Grupo 3: Suramérica, Grupo 4: África, Grupo 5, Asia, Grupo 6: Europa**):
+Abrir la herramienta [Nextstrain](https://nextstrain.org/), seleccionar los casos de SARS-CoV-2 en un país del continente que le corresponda y responder las siguientes preguntas (**Grupo 1: Europa, Grupo 2: Norte América, Grupo 3: Suramérica, Grupo 4: África, Grupo 5: Asia, Grupo 6: Europa**):
 
 4. ¿Es posible detectar en qué instancias el virus fue transmitido por migración desde otras partes del mundo y en qué instancias el virus se propagó localmente dentro del país? Explique que información del árbol permite hacer este tipo de inferencias.   
 
