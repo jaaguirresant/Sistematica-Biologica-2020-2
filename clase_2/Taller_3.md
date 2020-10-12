@@ -15,44 +15,18 @@ Grupo_6|Pablo Andres Segura Forero, Andres Felipe Sora Martinez, Sebastian Tabar
 
 #
 
-Ver el video ["Real-time Tracking of Virus Evolution"](https://youtu.be/Ok2iZ9-cUlk) y responder las siguientes preguntas:
-
-1. En tres o cuatro frases cortas (o en tres o cuatro palabras), liste los aspectos de la propagación de un virus que se pueden detectar en un árbol filogenético.
-
-2. Con respecto al virus del Zika, ¿desde dónde fue introducido el virus a Brasil?
-
-   a. Colombia
-   
-   b. Florida (USA)
-   
-   c. Polinesia Francesa
-   
-   d. Sierra Leona
-
-3. Con respecto a la introducción del virus del Zika a la Florida (USA), ¿cuál de las siguientes afirmaciones es correcta?:
-
-   a. Fue introducido una sola vez desde Brasil y luego de propagó internamente dentro de la Florida.
-   
-   b. Fue introducido una sola vez desde Colombia y luego de propagó internamente dentro de la Florida.
-   
-   c. Fue introducido desde República Dominicana una sola vez y luego de propagó internamente dentro de la Florida.
-   
-   d. Fue introducido varias veces desde el Caribe, seguido de propagaciones independientes dentro de la Florida. 
-
-#
-
 Abrir la herramienta [Nextstrain](https://nextstrain.org/), seleccionar los casos de SARS-CoV-2 en un país del continente que le corresponda y responder las siguientes preguntas (**Grupo 1: Europa, Grupo 2: Norte América, Grupo 3: Suramérica, Grupo 4: África, Grupo 5: Asia, Grupo 6: Europa**):
 
-4. ¿Es posible detectar en qué instancias el virus fue transmitido por migración desde otras partes del mundo y en qué instancias el virus se propagó localmente dentro del país? Explique que información del árbol permite hacer este tipo de inferencias.   
+1. ¿Es posible detectar en qué instancias el virus fue transmitido por migración desde otras partes del mundo y en qué instancias el virus se propagó localmente dentro del país? Explique que información del árbol permite hacer este tipo de inferencias.   
 
-5. ¿Todas las cepas del virus presentes en el país forman un grupo monofilético, parafilético o polifilético?
+2. ¿Todas las cepas del virus presentes en el país forman un grupo monofilético, parafilético o polifilético?
 
-6. ¿De qué país o región del mundo se cree que provino el primer caso de COVID19 en su país de estudio?
+3. ¿De qué país o región del mundo se cree que provino el primer caso de COVID19 en su país de estudio?
 
-7. ¿De que país (países) o región del mundo se importaron los principales grandes focos de infección del virus? ¿Cuántos de estos focos indentificó? ¿Se dieron todos al mismo tiempo o en momentos diferentes? Explique.
+4. ¿De que país (países) o región del mundo se importaron los principales grandes focos de infección del virus? ¿Cuántos de estos focos indentificó? ¿Se dieron todos al mismo tiempo o en momentos diferentes? Explique.
 
-8. Entre el 15 de febrero y 20 de marzo se cerraron la mayoría de aeropuertos en el mundo y se cerraron muchas fronteras. ¿Que patrón observa en el árbol filogenético antes y despues de este rango de fechas y como lo interpreta?
+5. Entre el 15 de febrero y 20 de marzo se cerraron la mayoría de aeropuertos en el mundo y se cerraron muchas fronteras. ¿Que patrón observa en el árbol filogenético antes y despues de este rango de fechas y como lo interpreta?
 
-9. Nueva Zelanda tuvo una de las mejores respuestas a la crisis generada por la pandemia en el mundo. Usando la herrmaienta Nexstrain, describa como ha sido la historia de contagios de coronavirus en este país y compárela con la historia de contagios en su país de estudio. (**Nota:** Para encontrar Nueva Zelanda es necesario buscarla como "Oceanía" e ignorar los casos de Australia.)
+6. Nueva Zelanda tuvo una de las mejores respuestas a la crisis generada por la pandemia en el mundo. Usando la herrmaienta Nexstrain, describa como ha sido la historia de contagios de coronavirus en este país y compárela con la historia de contagios en su país de estudio. (**Nota:** Para encontrar Nueva Zelanda es necesario buscarla como "Oceanía" e ignorar los casos de Australia.)
 
-10. ¿Qué otro patrón interesante ve en el árbol filogenético sobre la propagación del virus en su país de estudio?
+7. ¿Qué otro patrón interesante ve en el árbol filogenético sobre la propagación del virus en su país de estudio?
