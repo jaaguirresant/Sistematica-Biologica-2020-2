@@ -4,6 +4,7 @@
 ## PREMISA DEL ESTUDIO:
 
 1. ¿Cuál es el objetivo principal de este estudio en lo que respecta a relaciones filogenéticas entre taxones?
+
 #
 
 ## MUESTREO DE TAXONES:
@@ -24,7 +25,7 @@
 
 5. ¿Qué taxones escogieron los autores como grupo interno?
 
-6 ¿Usted cree que los taxones del grupo interno representan bien la diversidad de los Theridiidos?
+6. ¿Usted cree que los taxones del grupo interno representan bien la diversidad de los Theridiidos?
 
 #
 
