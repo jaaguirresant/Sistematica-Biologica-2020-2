@@ -41,20 +41,18 @@ Ver el video ["Real-time Tracking of Virus Evolution"](https://youtu.be/Ok2iZ9-c
 
 #
 
-Abrir la herramienta [Nextstrain](https://nextstrain.org/), seleccionar únicamente los casos de SARS-CoV-2 en Nueva York y responder las siguientes preguntas:
+Abrir la herramienta [Nextstrain](https://nextstrain.org/), seleccionar los casos de SARS-CoV-2 en un país del continente que le corresponda y responder las siguientes preguntas (**Grupo 1: Europa, Grupo 2: Norte América, Grupo 3: Suramérica, Grupo 4: África, Grupo 5, Asia, Grupo 6: Europa**):
 
-4. Después de analizar el árbol filogenético, ¿es posible detectar en qué instancias el virus fue transmitido por migración desde otras partes del mundo y en qué instancias el virus se propagó localmente dentro de la ciudad? Explique que información del árbol permite hacer este tipo de inferencias.   
+4. ¿Es posible detectar en qué instancias el virus fue transmitido por migración desde otras partes del mundo y en qué instancias el virus se propagó localmente dentro del país? Explique que información del árbol permite hacer este tipo de inferencias.   
 
-5. ¿Todas las cepas del virus presentes en Nueva York forman un grupo monofilético o parafilético?
+5. ¿Todas las cepas del virus presentes en el país forman un grupo monofilético, parafilético o polifilético?
 
-6. ¿De qué país o región del mundo provino el primer caso de COVID19 en Nueva York?
+6. ¿De qué país o región del mundo se cree que provino el primer caso de COVID19 en su país de estudio?
 
-7. ¿De que país (países) o región del mundo se importaron los tres grandes focos de infección del virus en Nueva York?
+7. ¿De que país (países) o región del mundo se importaron los principales grandes focos de infección del virus? ¿Cuántos de estos focos indentificó? ¿Se dieron todos al mismo tiempo o en momentos diferentes? Explique.
 
-8. ¿En qué momento Nueva York pasó de ser un receptor de casos del virus para convertirse en un foco de origen de la infección? ¿Qué información del árbol le permitió responder esta pregunta?
+8. Entre el 15 de febrero y 20 de marzo se cerraron la mayoría de aeropuertos en el mundo y se cerraron muchas fronteras. ¿Que patrón observa en el árbol filogenético antes y despues de este rango de fechas y como lo interpreta?
 
-9. EL 20 de marzo, el alcalde de Nueva York dio la orden de cancelar los vuelos internacionales desde y hacía la ciudad. ¿Que patrón observa en el árbol filogenético despues de esta fecha y como lo interpreta?
+9. Nueva Zelanda tuvo una de las mejores respuestas a la crisis generada por la pandemia en el mundo. Usando la herrmaienta Nexstrain, describa como ha sido la historia de contagios de coronavirus en este país y compárela con la historia de contagios en su país de estudio.
 
-10. Suponga que el presidente Trump en una de sus genialidades permite desde mañana los vuelos internacionales únicamente desde Nueva York hasta Nueva Zelanda (donde hoy en dia no hay casos del virus). ¿Como cree que se visualizaría el impacto de esta medida en el árbol filogenético global después de varias semanas de haber implementado esta medida?
-
-11. ¿Qué otro patrón interesante ve en el árbol filogenético sobre la propagación del virus en Nueva York?
+10. ¿Qué otro patrón interesante ve en el árbol filogenético sobre la propagación del virus en su país de estudio?
