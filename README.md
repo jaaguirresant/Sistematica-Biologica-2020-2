@@ -73,6 +73,12 @@ Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lec
 
 #
 
+**Taller de iniciación en R**
+
+El siguiente enlace contiene el script de un pequeño repaso de los fundamentos de R para entender los ejercicios computacionales que veremos en este módulo: [Ir al script](/Intro_R.R). Una buena guía para aprender R es el libro "A Beginner’s Guide to R", el cual está libre para descarga durante la pandemia en el siguiente enlace: https://link.springer.com/book/10.1007/978-0-387-93837-0.
+
+#
+
 **[Clase 2](/clase_2/clase_2.pdf). Estructura de un estudio de inferencia filogenética.** Esta clase estará dividida en dos partes:
 
 1. Exploración del esqueleto de un estudio de inferencia filogenética con base en la lectura del artículo de [Argnarsson (2004)](/clase_1/Agnarsson_2004.pdf). Para esta actividad haremos la discusión con base en las preguntas del siguiente taller: [Taller 2](/clase_2/Taller_2.md) y una corta charla (bajar la presentación [aquí](/clase_2/clase_2.pdf)). 
@@ -93,18 +99,8 @@ Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lec
 
 [Fuente de la_imagen](https://nextstrain.org/static/29ad6a31f0f2469727286691b577cfa1/7c190/mumps.png)
 
-El [taller](/clase_2/Taller_3.md) de este segmento de la clase se hará en grupos y consta de dos partes:
+Para esta parte de la clase, los estudiantes realizarán el siguiente taller en grupos usando la herramienta Nexstrain: [ir al taller](/clase_2/Taller_3.md).  
 
-   - Ver el video de Trevor Bedford, el creador de la herramienta Nextstrain: ["Real-time Tracking of Virus Evolution"](https://youtu.be/Ok2iZ9-cUlk). El video está en inglés, pero en YouTube es posible generar subtítulos automáticamente traducidos al español en la opción de configuración del video ([ver tutorial acá](https://support.google.com/youtube/answer/100078?co=GENIE.Platform%3DDesktop&hl=es-419)). No es la mejor traducción, pero ayuda mucho. Con base en el video, responder las primeras tres preguntas del taller: [Análisis filogenético del COVID19](/clase_2/Taller_3.md).
-   - Abrir y explorar la herramienta Nextstrain y hacer el resto del taller: [Análisis filogenético del COVID19](/clase_2/Taller_3.md).
- 
 **Tarea:** Subir las respuestas del taller a la carpeta "Taller 3" en el Drive del curso. 
 
 #
-
-**Taller de iniciación en R**
-
-El siguiente enlace contiene el script de un pequeño repaso de los fundamentos de R para entender los ejercicios computacionales que veremos en este módulo: [Ir al script](/Intro_R.R). Una buena guía para aprender R es el libro "A Beginner’s Guide to R", el cual está libre para descarga durante la pandemia en el siguiente enlace: https://link.springer.com/book/10.1007/978-0-387-93837-0.
-
-#
-
