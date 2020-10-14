@@ -71,59 +71,59 @@ Más información sobre el formato PHY: [Aquí](http://evolution.genetics.washin
 
 Escoja seis organismos de su interés (5 del grupo interno y 1 grupo ajeno), construya una matriz de cinco caracteres homólogos y guárdela en los formatos TNT, NEXUS y PHYLIP. A continuación se encuentran las instrucciones básicas para construir esta matriz en Mesquite:
 
-   a. Abrir Mesquite.
+        a. Abrir Mesquite.
 
-   b. En el menú superior seleccionar File, New. Una ventana aparecerá.
+        b. En el menú superior seleccionar File, New. Una ventana aparecerá.
 
-   c. Darle nombre al proyecto (p.e. Matriz_ejercicio.nex). Es importante que el archivo tenga la extensión .nex para que Mesquite (y otros programas) reconozcan este archivo como una matriz de datos. Hacer click en Save.
+        c. Darle nombre al proyecto (p.e. Matriz_ejercicio.nex). Es importante que el archivo tenga la extensión .nex para que Mesquite (y otros programas) reconozcan este archivo como una matriz de datos. Hacer click en Save.
 
-   d. Una ventana llamada “New File Options” se abrirá.
+        d. Una ventana llamada “New File Options” se abrirá.
 
-   - Click en cuadro “Name” y darle un nombre (p.e. morfología).
+        - Click en cuadro “Name” y darle un nombre (p.e. morfología).
    
-   - Click en “Number of Taxa” y poner el número de taxones terminales (cinco en nuestro caso). Este número puede cambiarse después.
+        - Click en “Number of Taxa” y poner el número de taxones terminales (cinco en nuestro caso). Este número puede cambiarse después.
    
-   - Seleccionar la caja “Make Character Matrix”. La caja “Make Taxa Block” también debe estar seleccionada. Click OK.
+        - Seleccionar la caja “Make Character Matrix”. La caja “Make Taxa Block” también debe estar seleccionada. Click OK.
    
-   e. Una ventana llamada “New Character Matrix se abrirá.
+        e. Una ventana llamada “New Character Matrix se abrirá.
 
-   - Darle un nombre a la matriz en la caja de texto “p.e. Ejercicio”.
+        - Darle un nombre a la matriz en la caja de texto “p.e. Ejercicio”.
    
-   - Ingresar el número de caracteres (en nuestro caso: 5).
+        - Ingresar el número de caracteres (en nuestro caso: 5).
 
-   - Seleccionar “Standard Categorical Data”. Click OK.
+        - Seleccionar “Standard Categorical Data”. Click OK.
 
-   f. Explorar las opciones de esa ventana.
+        f. Explorar las opciones de esa ventana.
 
-   g. Ingresar nombres a los taxones y caracteres.
+        g. Ingresar nombres a los taxones y caracteres.
 
-   - Doble click a taxón 1 en la primera fila de la matriz. Ingresar el nombre del taxón. Presionar ENTER.
+        - Doble click a taxón 1 en la primera fila de la matriz. Ingresar el nombre del taxón. Presionar ENTER.
    
-   - Doble click a la primera columna de la matriz y renombrar el carácter.
+        - Doble click a la primera columna de la matriz y renombrar el carácter.
    
-   - Para adicionar caracteres o taxones adicionales, seleccionar las herramientas Add Characters o Add Taxa en el menú de la izquierda. Para eliminar, basta seleccionar y presionar DELETE.
+        - Para adicionar caracteres o taxones adicionales, seleccionar las herramientas Add Characters o Add Taxa en el menú de la izquierda. Para eliminar, basta seleccionar y presionar DELETE.
    
-   h. Ingresar datos.
+        h. Ingresar datos.
 
-   - Todos los datos comienzan como “?” para denotar que es información faltante o desconocida.
+        - Todos los datos comienzan como “?” para denotar que es información faltante o desconocida.
    
-   - Ingresar manualmente los datos con la herramienta Edit Tool o haciendo doble click en la celda.
+        - Ingresar manualmente los datos con la herramienta Edit Tool o haciendo doble click en la celda.
    
-   - Ingresar estados codificados de los caracteres (0, 1, 2…etc).
+        - Ingresar estados codificados de los caracteres (0, 1, 2…etc).
    
-   - Si quiere describir cada estado: seleccionar Show Matrix Info en la esquina inferior izquierda de la ventana (cualquier modificación es solo visual, no afecta la codificación de la matriz).
+        - Si quiere describir cada estado: seleccionar Show Matrix Info en la esquina inferior izquierda de la ventana (cualquier modificación es solo visual, no afecta la codificación de la matriz).
    
-   - Guardar con Save.
+        - Guardar con Save.
    
-   i. Exportar la matriz a diferentes formatos.
+        i. Exportar la matriz a diferentes formatos.
 
-   - File, Export y escoger el formato.
+        - File, Export y escoger el formato.
 
 7. Generar y subir matrices en R
 
 Sin duda, R es la mejor plataforma para trabajar con datos filogenéticos. Por esto es importante familiarizarse con esta plataforma y entender como trabajar con las matrices desde allí. Para este ejercicio no es necesario tener destrezas de programación, pero si recomienda estar familiarizado con elementos básicos de sintaxis en R. Para más información, [esta guía básica es útil](https://cran.r-project.org/doc/contrib/rdebuts_es.pdf).
 
-   a. Construya su matriz manualmente en R, siguiendo la siguiente guía:
+a. Construya su matriz manualmente en R, siguiendo la siguiente guía:
 
 - Abra R Studio
 
@@ -183,7 +183,7 @@ write.nexus.data(mi_matriz, "mi_matriz_en_R.nex", format= "standard", datablock=
 ```
 
 
-   b. Leer un archivo que contiene una matriz en formato Nexus
+b. Leer un archivo que contiene una matriz en formato Nexus
 
 - Asegúrese de que las matrices del comienzo de este taller están en el directorio de trabajo.
 
