@@ -52,7 +52,7 @@ Las plantas del género _Gnetum_ han sido por muchas décadas un misterio para l
 A pesar de las grandes ventajas evolutivas que las alas le confirieron a la mayoría de los insectos (p.ej. escapar de los depredadores, explotar recursos dispersos y dispersarse en nuevos nichos), este caracter parece haber desaparecido en la mayoría de los miembros de la familia de los insectos palo (Phasmatodea). Curiosamente, algunas especies de este grupo poseen alas y no es claro si esto se debe a que este caracter complejo re-evolucionó en el grupo (reversión) o si estas especies simplemente conservaron la condición ancestral del caracter (plesiomorfia). Con base en esta información, se plantea la siguiente pregunta: ¿Los insectos palo (orden Phasmatodea) diversificaron como insectos sin alas y las alas se derivaron de manera secundaria a pesar de que esta reversión se considera muy poco probable porque se requieren interacciones complejas entre nervios, músculos, escleritos y láminas de alas para adaptarse al vuelo? 
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F447756387946605369%2F&psig=AOvVaw1a63vlD5suB3uigNqlaFEg&ust=1602792864214000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJD8vvLytOwCFQAAAAAdAAAAABAQ" width="330" height="300" />
+  <img src="https://entomology.k-state.edu/images/insect-orders/from-display-case.jpg" width="330" height="300" />
 </p>
 
 #### 3. Pautas del estudio filogenético
