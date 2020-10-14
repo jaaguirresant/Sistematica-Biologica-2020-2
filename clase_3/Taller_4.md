@@ -6,36 +6,29 @@ La matriz de caracteres es el principal requisito para utilizar cualquier progra
 
 #
 
-Realizar el siguiente taller en los siguientes grupos de trabajo:
-
-|Grupo No.|Integrantes|Enlace videollamada|
-|---|---|---|
-Grupo_1|Deisy Marcela Angarita Ospina, Jose Luis Camargo Sarmiento, Nixon Andres Castillejo Lozano, Leyla Alejandra Castillo Múñoz, Ángela Patricia Ceballos Torres|https://meet.google.com/txm-noak-kxe|
-Grupo_2|Sergio Ivan Cohecha Claros, Diana Marcela Daza Gacha, Ivan Andrés Gallego Benavides, David Ricardo Gamarra Cardona, María Alejandra Pinto|https://meet.google.com/znt-nkgk-spt|
-Grupo_3|Nicolas David Gutierrez Rubiano, Juan Camilo Gutierrez Toro, Sara Hernández Acosta, Laura Milena Hernandez Hernandez, Kevin Stiven Nonsocua Triviño, Jorge David Zabala Castro|https://meet.google.com/fmm-vgjb-jfa|
-Grupo_4|Sebastian Felipe Ramirez Garavito, Juan Pablo Rueda Ramírez, Anggi Yulieth Solano Moreno, Naren Mauricio Tellez Carretero, Luis Eduardo Vargas Moreno|https://meet.google.com/vja-tcaj-tzk|
+Realizar el siguiente taller en los mismos grupos de trabajo asignados para el proyecto del módulo.
 
 #
 
-# PARTE 1: Construcción de matriz con datos morfológicos
+## PARTE 1: Construcción de matriz con datos morfológicos
 
-#### 1. Cada grupo deberá hacer una sencilla pregunta de investigación sobre las relaciones filogenéticas de cualquier grupo de seis organismos vivos de fácil observación, siendo uno de ellos el grupo ajeno (por ejemplo: las plantas de sus casas, insectos del patio, o fotos de organismos en internet). 
+1. Cada grupo deberá hacer una sencilla pregunta de investigación sobre las relaciones filogenéticas de cualquier grupo de seis organismos vivos de fácil observación, siendo uno de ellos el grupo ajeno (por ejemplo: las plantas de sus casas, insectos del patio, o fotos de organismos en internet). 
 
-#### 2. Una vez planteada la pregunta y escogidos los taxones, deberán consturir una matriz morfológica de 5 caracteres usando el criterio de homología primaria y las estrategias de codificación de caracteres explicadas en clase.  
+2. Una vez planteada la pregunta y escogidos los taxones, deberán consturir una matriz morfológica de 5 caracteres usando el criterio de homología primaria y las estrategias de codificación de caracteres explicadas en clase.  
 
-#### 3. Como resultado de este ejercicio, deben subir al Drive un documento con las siguientes tres cosas: (1) la pregunta y la escogencia de taxones; (2) la tabla de caracteres y (3) la matriz. 
+3. Como resultado de este ejercicio, deben subir al Drive un documento con las siguientes tres cosas: (1) la pregunta y la escogencia de taxones; (2) la tabla de caracteres y (3) la matriz. 
 
 #
 
-# PARTE 2: Matrices con datos de secuencias de ADN
+## PARTE 2: Matrices con datos de secuencias de ADN
 
 Esta parte del taller es para realizar en casa y subir antes del próximo martes al Drive del curso.
 
-## Formatos
+# Formatos
 
 Aunque las matrices serían muy fáciles de elaborar en una tabla de Excel, este formato no es recomendado, ya que tienen muchos caracteres de formato escondido que los programas de inferencia filogenética no pueden reconocer. Por esta razón, dichos programas exigen que la matriz de caracteres esté en el formato más simple posible. Para esta clase vamos a explorar los tres formatos más populares para construir y almacenar matrices de datos de ADN: Fasta, Nexus, Phyllip y TNT. A continuación se describen los pasos a seguir:
 
-#### 1. Familiarizarse con los elementos de los archivos para cada formato.
+1. Familiarizarse con los elementos de los archivos para cada formato.
 
 Abrir en un editor de texto los siguientes archivos: [ADN.fasta](/clase_3/ADN.fasta), [ADN.tnt](/clase_3/ADN.tnt), [ADN.nex](/clase_3/ADN.nex), [ADN.phy](/clase_3/ADN.phy).
 
@@ -64,27 +57,27 @@ Más información sobre el formato PHY: [Aquí](http://evolution.genetics.washin
 
 ## Construcción de una matriz a partir de datos de GenBank
 
-#### 2. Bajar de GenBank 10 secuencias de ADN del gen Cyt b de cualquier grupo de animales de su interés en formato fasta. Describa el contenido de este archivo. (Se recomienda abrir este archivo en un editor de texto como notepad++).
+2. Bajar de GenBank 10 secuencias de ADN del gen Cyt b de cualquier grupo de animales de su interés en formato fasta. Describa el contenido de este archivo. (Se recomienda abrir este archivo en un editor de texto como notepad++).
 
-#### 3. Edite los nombres de los taxones para evitar nombres muy largos. Explique su estrategia para que el nombre del taxón siga siendo informativo, en caso de que tenga que volver a GenBank para revisar su informción original.
+3. Edite los nombres de los taxones para evitar nombres muy largos. Explique su estrategia para que el nombre del taxón siga siendo informativo, en caso de que tenga que volver a GenBank para revisar su informción original.
 
-#### 4. Alinee las secuencias usando Mafft (https://mafft.cbrc.jp/alignment/server/) y guarde nuevamente el alineamiento en formato fasta, nexus y Phylip. Subir estas matrices al Drive del curso.
+4. Alinee las secuencias usando Mafft (https://mafft.cbrc.jp/alignment/server/) y guarde nuevamente el alineamiento en formato fasta, nexus y Phylip. Subir estas matrices al Drive del curso.
 
-#### 5. ¿A qué equivale el proceso de alineamiento secuencias hecho por Mafft en comparación con ejercicio de codificación de caracteres morfológicos de la PARTE 1 de este taller?
+5. ¿A qué equivale el proceso de alineamiento secuencias hecho por Mafft en comparación con ejercicio de codificación de caracteres morfológicos de la PARTE 1 de este taller?
 
 ## Ejercicios avanzados (OPCIONALES)
 
-#### 6. Paso a paso para generar matrices en Mesquite
+6. Paso a paso para generar matrices en Mesquite
 
 Escoja seis organismos de su interés (5 del grupo interno y 1 grupo ajeno), construya una matriz de cinco caracteres homólogos y guárdela en los formatos TNT, NEXUS y PHYLIP. A continuación se encuentran las instrucciones básicas para construir esta matriz en Mesquite:
 
-a. Abrir Mesquite.
+   a. Abrir Mesquite.
 
-b. En el menú superior seleccionar File, New. Una ventana aparecerá.
+   b. En el menú superior seleccionar File, New. Una ventana aparecerá.
 
-c. Darle nombre al proyecto (p.e. Matriz_ejercicio.nex). Es importante que el archivo tenga la extensión .nex para que Mesquite (y otros programas) reconozcan este archivo como una matriz de datos. Hacer click en Save.
+   c. Darle nombre al proyecto (p.e. Matriz_ejercicio.nex). Es importante que el archivo tenga la extensión .nex para que Mesquite (y otros programas) reconozcan este archivo como una matriz de datos. Hacer click en Save.
 
-d. Una ventana llamada “New File Options” se abrirá.
+   d. Una ventana llamada “New File Options” se abrirá.
 
    - Click en cuadro “Name” y darle un nombre (p.e. morfología).
    
@@ -92,7 +85,7 @@ d. Una ventana llamada “New File Options” se abrirá.
    
    - Seleccionar la caja “Make Character Matrix”. La caja “Make Taxa Block” también debe estar seleccionada. Click OK.
    
-e. Una ventana llamada “New Character Matrix se abrirá.
+   e. Una ventana llamada “New Character Matrix se abrirá.
 
    - Darle un nombre a la matriz en la caja de texto “p.e. Ejercicio”.
    
@@ -100,9 +93,9 @@ e. Una ventana llamada “New Character Matrix se abrirá.
 
    - Seleccionar “Standard Categorical Data”. Click OK.
 
-f. Explorar las opciones de esa ventana.
+   f. Explorar las opciones de esa ventana.
 
-g. Ingresar nombres a los taxones y caracteres.
+   g. Ingresar nombres a los taxones y caracteres.
 
    - Doble click a taxón 1 en la primera fila de la matriz. Ingresar el nombre del taxón. Presionar ENTER.
    
@@ -110,7 +103,7 @@ g. Ingresar nombres a los taxones y caracteres.
    
    - Para adicionar caracteres o taxones adicionales, seleccionar las herramientas Add Characters o Add Taxa en el menú de la izquierda. Para eliminar, basta seleccionar y presionar DELETE.
    
-h. Ingresar datos.
+   h. Ingresar datos.
 
    - Todos los datos comienzan como “?” para denotar que es información faltante o desconocida.
    
@@ -122,15 +115,15 @@ h. Ingresar datos.
    
    - Guardar con Save.
    
-i. Exportar la matriz a diferentes formatos.
+   i. Exportar la matriz a diferentes formatos.
 
    - File, Export y escoger el formato.
 
-#### 6. Generar y subir matrices en R
+7. Generar y subir matrices en R
 
 Sin duda, R es la mejor plataforma para trabajar con datos filogenéticos. Por esto es importante familiarizarse con esta plataforma y entender como trabajar con las matrices desde allí. Para este ejercicio no es necesario tener destrezas de programación, pero si recomienda estar familiarizado con elementos básicos de sintaxis en R. Para más información, [esta guía básica es útil](https://cran.r-project.org/doc/contrib/rdebuts_es.pdf).
 
-a. Construya su matriz manualmente en R, siguiendo la siguiente guía:
+   a. Construya su matriz manualmente en R, siguiendo la siguiente guía:
 
 - Abra R Studio
 
@@ -190,7 +183,7 @@ write.nexus.data(mi_matriz, "mi_matriz_en_R.nex", format= "standard", datablock=
 ```
 
 
-b. Leer un archivo que contiene una matriz en formato Nexus
+   b. Leer un archivo que contiene una matriz en formato Nexus
 
 - Asegúrese de que las matrices del comienzo de este taller están en el directorio de trabajo.
 
