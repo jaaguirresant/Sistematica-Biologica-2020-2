@@ -55,7 +55,7 @@ Más información sobre el formato TNT: [Aquí](http://phylo.wikidot.com/tnt-htm
 
 Más información sobre el formato PHY: [Aquí](http://evolution.genetics.washington.edu/phylip/doc/main.html#inputfiles)
 
-## Construcción de una matriz a partir de datos de GenBank
+## Construcción de una matriz a partir de datos de [GenBank](https://www.ncbi.nlm.nih.gov/nucleotide/)
 
 2. Bajar de GenBank 10 secuencias de ADN del gen Cyt b de cualquier grupo de animales de su interés en formato fasta. Describa el contenido de este archivo. (Se recomienda abrir este archivo en un editor de texto como notepad++).
 
