@@ -2,8 +2,6 @@
 
 ## Objetivo
 
-#
-
 Aprender a combinar la teoría y herramientas aprendidas en este módulo para llevar a cabo un análisis de inferencia filogenética que responda a una pregunta de investigación.
 
 #
@@ -28,7 +26,7 @@ Grupo_6|Pablo Andres Segura Forero, Andres Felipe Sora Martinez, Sebastian Tabar
 
 Cada grupo deberá "generar" datos de secuencias de ADN y usar métodos filogenéticos para resolver una pregunta que por muchos años intrigó a los científicos. Las preguntas son las siguientes:
   
-**GRUPOS 2 y 4:**
+**GRUPOS 1 y 2:**
 
 Desde Darwin y muchas décadas después, los llamados "grandes simios" (chimpancés, gorilas, orangutanes y bonobos) fueron clasificados en la familia Pongidae, la cual difería de la familia de los humanos y sus parientes extintos (Hominidae) por varios caracteres diagnósticos. Sin embargo, en años recientes han aparecido evidencias que apuntan a que la familia Pongidae es en realidad parafilética y no debería existir como un linaje taxonómico separado de los humanos. Con base en esta información, surge la siguiente pregunta: ¿Es la familia Pongidae un grupo monofilético, hermano de la familia hominidae, la cual solamente contiene al género Homo?
 
@@ -39,7 +37,7 @@ Desde Darwin y muchas décadas después, los llamados "grandes simios" (chimpanc
 [Fuente de la imagen](http://2.bp.blogspot.com/-k6EpooOkiVc/UINAibmlKGI/AAAAAAAAPNI/9dedRrLnbzk/s1600/homino_tree_old.gif)
 
 
-**GRUPOS 1 y 3:**
+**GRUPOS 3 y 4:**
 
 Las plantas del género _Gnetum_ han sido por muchas décadas un misterio para los botánicos, ya que tienen característcas intermedias entre una gimnosperma (p.e. semillas desnudas y estructuras reproductivas agrupadas en estróbilos) y una angiosperma (p.e. elementos del vaso en xilema, hojas de venación reticulada, doble fertilización y polinización zoocórica). Con base en esta información, surge la siguiente pregunta: ¿Es el género _Gnetum_ una gimnosperma, una angiosperma o ninguna de las dos?
 
@@ -49,6 +47,13 @@ Las plantas del género _Gnetum_ han sido por muchas décadas un misterio para l
 
 [Fuente de la imagen](https://images.squarespace-cdn.com/content/v1/544591e6e4b0135285aeb5b6/1515445997181-DFSI4XBJNUCU3N0KD8VE/ke17ZwdGBToddI8pDm48kDEDYh4Y0JGhR6hzuwcJ44gUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcz6bs2FkMoqlrQIzq4g5ogDqXr_T7rMikH_TfPkEE4wwzGwe9KEhUq6A0DxOZf-75/6863727669_019293fded_b.jpg?format=750w)
 
+**GRUPOS 5 y 6:**
+
+A pesar de las grandes ventajas evolutivas que las alas le confirieron a la mayoría de los insectos (p.ej. escapar de los depredadores, explotar recursos dispersos y dispersarse en nuevos nichos), este caracter parece haber desaparecido en la mayoría de los miembros de la familia de los insectos palo (Phasmatodea). Curiosamente, algunas especies de este grupo poseen alas y no es claro si esto se debe a que este caracter complejo re-evolucionó en el grupo (reversión) o si estas especies simplemente conservaron la condición ancestral del caracter (plesiomorfia). Con base en esta información, se plantea la siguiente pregunta: ¿Los insectos palo (orden Phasmatodea) diversificaron como insectos sin alas y las alas se derivaron de manera secundaria a pesar de que esta reversión se considera muy poco probable porque se requieren interacciones complejas entre nervios, músculos, escleritos y láminas de alas para adaptarse al vuelo? 
+
+<p align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F447756387946605369%2F&psig=AOvVaw1a63vlD5suB3uigNqlaFEg&ust=1602792864214000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJD8vvLytOwCFQAAAAAdAAAAABAQ" width="330" height="300" />
+</p>
 
 #### 3. Pautas del estudio filogenético
 
@@ -69,7 +74,7 @@ b. Preparar una presentación de diapositivas del estudio de máximo 10 minutos.
 
 #### 5. Discusión
 
-Después de que las dos presentaciones que responden a la misma pregunta hayan terminado, comenzará un bloque de discusión crítica entre los dos grupos que presentaron. La idea es que las preguntas sean críticas del estudio de sus compañeros y sepan defender sus propios resultados. Al final de las presentaciones y la discusión, el resto de sus compañeros y el profesor votarán por el estudio más convincente. Acá están las pautas de esta actividad:
+Después de que las tres presentaciones que responden a la misma pregunta hayan terminado, comenzará un bloque de discusión crítica entre los dos grupos que presentaron. La idea es que las preguntas sean críticas del estudio de sus compañeros y sepan defender sus propios resultados. Al final de las presentaciones y la discusión, el resto de sus compañeros y el profesor votarán por el estudio más convincente. Acá están las pautas de esta actividad:
 
 1. Cada grupo debe escoger de antemano a un miembro del grupo que servirá como vocero del grupo en la discusión. 
  
