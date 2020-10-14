@@ -14,12 +14,12 @@ Aprender a combinar la teoría y herramientas aprendidas en este módulo para ll
 
 |Grupo No.|Integrantes|Enlace videollamada|
 |---|---|---|
-Grupo_1|Ligia Juliana Acevedo Amaya, Maria Paula Arevalo Gomez, Samanta Melissa Arévalo Porras, Gabriel Andres Avila Martinez, Vladimir Briceño Pérez,Maria Camila Valdés Cardona|https://meet.google.com/txm-noak-kxe|
-Grupo_2|Fabian Andres Castro Romero, Jhon Fredy Chitiva Riveros, Laura Valeria Cubillos Ariza, Jonathan Stiven Espitia Romero, Sarha Marcela Garcia Rodriguez, Lauren Sofia Yepes Fernandez|https://meet.google.com/znt-nkgk-spt|
+Grupo_1|Ligia Juliana Acevedo Amaya, Maria Paula Arevalo Gomez, Samanta Melissa Arévalo Porras, Gabriel Andres Avila Martinez, Vladimir Briceño Pérez, Maria Camila Valdés Cardona|https://meet.google.com/txm-noak-kxe|
+Grupo_2|Fabian Andres Castro Romero, Jhon Fredy Chitiva Riveros, Laura Valeria Cubillos Ariza, Jonathan Stiven Espitia Romero, Sarha Marcela Garcia Rodriguez |https://meet.google.com/znt-nkgk-spt|
 Grupo_3|Victor Manuel Giral Diaz, Sergio Nicolas Gomez Luna, Julian David Gonzalez Pabon, Katherine Camila Guantiva Reina, Ivan Enrique Libreros Coronel|https://meet.google.com/fmm-vgjb-jfa|
 Grupo_4|Larry Estive Lopez Garcia, Angie Paola Martínez Pedraza, Julian Andres Paez Romero, Alejandro Palacios Cubillos, Daniela Parra Serrato|https://meet.google.com/vja-tcaj-tzk|
 Grupo_5|Leonardo Pinzón Avendaño, Hans Santiago Poveda Marroquin, Paula Manuela Rojas Zambrano, Miguel Angel Ruiz Cardozo, Ana Gabriela Sanchez Arango|https://meet.google.com/xsj-swtt-qrj|
-Grupo_6|Pablo Andres Segura Forero, Andres Felipe Sora Martinez, Sebastian Tabares Segovia, Doris Daniela Tolosa Oliveros, Marlon Vladimir Tovar Bolaños|https://meet.google.com/pqb-zqob-aez|
+Grupo_6|Pablo Andres Segura Forero,  Andres Felipe Sora Martinez, Sebastian Tabares Segovia, Doris Daniela Tolosa Oliveros, Marlon Vladimir Tovar Bolaños, Lauren Sofia Yepes Fernandez|https://meet.google.com/pqb-zqob-aez|
 
 
 #### 2. Preguntas a resolver:
