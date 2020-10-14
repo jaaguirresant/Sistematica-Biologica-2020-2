@@ -55,6 +55,8 @@ A pesar de las grandes ventajas evolutivas que las alas le confirieron a la mayo
   <img src="https://entomology.k-state.edu/images/insect-orders/from-display-case.jpg" width="330" height="300" />
 </p>
 
+[Fuente de la imagen](https://entomology.k-state.edu/extension/4-h-and-youth/Guide-to-Insect-Orders/phasmatodea.html)
+
 #### 3. Pautas del estudio filogenético
 
 **a. Muestreo de taxones:** máximo 20 taxones, incluyendo grupo(s) ajeno(s)
