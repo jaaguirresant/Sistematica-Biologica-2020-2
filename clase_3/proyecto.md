@@ -67,7 +67,7 @@ A pesar de las grandes ventajas evolutivas que las alas le confirieron a la mayo
 
 **d. Medidas de confianza:** usar por lo menos una medida de soporte (p.e. bootstrap, Jacknife, Bremer, Probabilidad Posterior).
 
-#### 4. Presentación de resultados.
+#### 4. Presentación de resultados (Martes 10 de noviembre de 2020).
 
 a. Escribir un resumen tipo congreso de máximo 300 palabras donde describan las premisas del estudio, métodos, resultados y conclusión.
 
