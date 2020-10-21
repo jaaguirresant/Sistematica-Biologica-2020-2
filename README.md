@@ -136,3 +136,19 @@ Para esta parte de la clase, los estudiantes realizarán el siguiente taller en 
 **NOTA 3:** Altamente recomendado que para la próxima clase ya tengan la matriz de datos alineados de sus proyectos lista y en los formatos fasta, tnt (o XREAD), Nexus y Phyllip.
 
 #
+
+**[Clase 5](/clase_5/Taller_MP2.md). Máxima Parsimonia II.** En esta clase se explican algunas ramificaciones de la Máxima Parsimonia ([bajar diapositivas aquí](/clase_5/Clase_5.pdf)) y termina con una práctica computacional de inferencia filogenética con Máxima Parsimonia usando el programa TNT y el paquete Phangorn de R. 
+
+<p align="center">
+  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_4/Gastrotheca2.jpg" width="250" height="300" />
+</p>
+
+**[IR AL TALLER DE TNT](/clase_5/Taller_TNT.md)**
+
+**[IR AL SCRIPT DE R](/clase_5/parsimonia.R)**. Para ejecutar este escript deben guardar el siguiente archivo con el nombre "ADN.nex" usando un editor texto: (ir al archivo: [ADN.nex](/clase_3/ADN.nex)). 
+
+**NOTA:** Para la clase del jueves leer:
+
+[Baum & Smith (2009)](/clase_5/baumsmith2013_ML.pdf)(Texto en inglés) **o** [Abascal et al (2014)](/clase_5/ML_Espanol.pdf) (Texto en español)
+
+#
