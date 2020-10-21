@@ -195,7 +195,7 @@ matriz_ADN
 
 ```
 
-- Las matrices morfológicas son más complicadas de leer, pero el paquete "claddis" tiene la función "ReadMorphNexus" que facilita este trabajo. Sin embargo, hay que asegurarse de que el archivo siga un formato estándar y que tenga el bloque de supuestos "Assumption block" al final del archivo. Seguir el ejemplo "morphomatrix.nex" ejecuntando los siguientes comando y revisando el archivo en sus carpetas de trabajo:
+- Las matrices morfológicas son más complicadas de leer, pero el paquete "claddis" tiene la función "read_nexus_matrix" que facilita este trabajo. Sin embargo, hay que asegurarse de que el archivo siga un formato estándar y que tenga el bloque de supuestos "Assumption block" al final del archivo. Seguir el ejemplo "morphomatrix.nex" ejecuntando los siguientes comando y revisando el archivo en sus carpetas de trabajo:
 
 ```
 cat("#NEXUS\n\nBEGIN DATA;\n\tDIMENSIONS  NTAX=5 NCHAR=5;\n\t
@@ -205,7 +205,7 @@ cat("#NEXUS\n\nBEGIN DATA;\n\tDIMENSIONS  NTAX=5 NCHAR=5;\n\t
     OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;\n\t
     TYPESET * UNTITLED  = unord: 1 3-5, ord: 2;\n\t
     WTSET * UNTITLED  = 1: 2, 2: 1 3-5;\nEND;", file = "morphmatrix.nex")
-morph.matrix <- ReadMorphNexus("morphmatrix.nex")
+morph.matrix <- read_nexus_matrix("morphmatrix.nex")
 morph.matrix
 
 ```
