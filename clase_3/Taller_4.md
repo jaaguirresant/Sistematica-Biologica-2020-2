@@ -213,7 +213,7 @@ morph.matrix
 - Una vez estemos seguros de que nuestra matriz tiene el formato correcto, podemos leerla:
 
 ```
-matriz_morfo <- ReadMorphNexus("morfologia.nex")
+matriz_morfo <- read_nexus_matrix("morfologia.nex")
 matriz_morfo
 ```
 
