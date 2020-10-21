@@ -78,6 +78,10 @@ plot(Primates_optim)
 Primates_optim
 str(Primates_optim)
 
+CI(Primates_optim, Primates_ADN, cost = NULL) #calcula  el índice de consistencia
+RI(Primates_optim, Primates_ADN, cost = NULL) #calcula el índice de retención
+
+
 # Pregunta 5: ¿Por qué la función requiere un árbol como el de NJ para comenzar el análisis?
 
 # Pregunta 6: ¿Cuántos árboles más parsimoniosos se encontraron?
