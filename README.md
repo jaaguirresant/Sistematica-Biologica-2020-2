@@ -152,3 +152,19 @@ Para esta parte de la clase, los estudiantes realizarán el siguiente taller en 
 [Baum & Smith (2009)](/clase_5/baumsmith2013_ML.pdf)(Texto en inglés) **o** [Abascal et al (2014)](/clase_5/ML_Espanol.pdf) (Texto en español)
 
 #
+
+**Clase 6. Inferencia filogenética paramétrica.** A partir de esta clase estudiaremos los métodos de inferencia filogenética que usan modelos explícitos de evolución. En esta clase abordaremos los fundamentos para entender los modelos de sustición de nucleótidos y su uso para estimar la verosimilitud de una hipótesis filogenética ([Descargar diapositivas aquí](/clase_6/clase_6.pdf)).
+
+<p align="center">
+  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_7/Imagen_c7.jpg" width="250" height="270" />
+</p>
+
+La clase estará complementada con una tarea de cálculo manual de la verosimilitud de un árbol ([ir a la tarea](/clase_6/Taller_ML.md)). 
+
+**NOTA 1:** Se recomienda explorar el programa [RAxML-GUI](https://antonellilab.github.io/raxmlGUI/). Este programa tiene algoritmos mucho más poderosos que phangorn (R) y tiene una interfaz agradable. Más información sobre RAxML_GUI [aquí](/clase_6/raxmlGUI_a_graphical_front-end_for_RaxML.pdf)
+
+**NOTA 2:** Recuerden que para esta y la próxima clase deben haber leído alguno de los siguientes capítulos:
+
+[Baum & Smith (2009)](/clase_5/baumsmith2013_ML.pdf) **o** [Abascal et al (2014)](/clase_5/ML_Espanol.pdf)
+
+#
