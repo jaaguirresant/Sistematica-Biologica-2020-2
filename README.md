@@ -121,7 +121,7 @@ Para esta parte de la clase, los estudiantes realizarán el siguiente taller en 
 
 **[Clase 4](/clase_4/Taller_MP.md). Distancias, Inferencia Hennigiana y Máxima Parsimonia (Parte I)** Esta clase hace una breve mención a los métodos que dieron origen a los métodos modernos de inferencia filogenética y abordaremos el concepto del criterio de optimalidad y el método de la Máxima Parsimonia. Descargar diapositivas [aquí](/clase_4/Clase_4.pdf). Para la parte práctica, haremos el siguiente taller con los mismos grupos de trabajo de siempre: 
 
-**[IR AL TALLER 2](/clase_4/Taller_MP.md)**
+**[IR AL TALLER](/clase_4/Taller_MP.md)**
 
 <p align="center">
   <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_2/Hennig_book.jpg" width="130" height="200" />
