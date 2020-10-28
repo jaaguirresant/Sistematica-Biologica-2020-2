@@ -168,3 +168,21 @@ La clase estará complementada con una tarea de cálculo manual de la verosimili
 [Baum & Smith (2009)](/clase_5/baumsmith2013_ML.pdf) **o** [Abascal et al (2014)](/clase_5/ML_Espanol.pdf)
 
 #
+
+**Clase 7. Máxima Verosimilitud II e Inferencia Bayesiana.** Esta clase esté dividida en tres partes. La primera parte consiste de una charla sobre la implementación de la estadística bayesiana en el contexto de la inferencia filogenética (bajar diapositivas [aquí](/clase_7/clase_7.pdf). La segunda parte consiste en la demostración práctica de los siguientes análisis:
+
+1. Máxima Verosimilitud en R ([ir al Script de R aquí](/clase_6/ML.R)). Para este ejercicio usaremos la matriz [ADN.nex](/clase_3/ADN.nex).
+
+2. Inferencia Bayesiana con MrBayes a través del Portal [CIPRES](http://www.phylo.org/). Para visualizar los resultados, usaremos [FigTree](https://github.com/rambaut/figtree/releases) y [Tracer](https://github.com/beast-dev/tracer/releases/tag/v1.7.1).
+
+Para los que quieran usar MrBayes desde sus computadores, se recomienda bajar e instalar el programa [MrBayes](http://nbisweden.github.io/MrBayes/download.html) y seguir el siguiente tutorial: http://mrbayes.sourceforge.net/mb3.2_manual.pdf. Pueden hacer el ejercicio con la matriz [ADN.nex](/clase_3/ADN.nex), la cual ya está configurada para ser leída de inmediato por MrBayes.
+
+<p align="center">
+  <img src="https://anabelforte.com/wp-content/uploads/2020/04/Thomas_Bayes.gif" width="250" height="270" />
+</p>
+
+3. Los estudiantes se reunirán en grupos al final de la clase para responder las preguntas del ejercicio de [Máxima Verosimilitud en R](/clase_6/ML.R).
+
+**Tarea:** Leer para la próxima clase el siguiente artículo: [Sanderson & Schauffer (2002)](/clase_7/Lectura.pdf).
+
+#
