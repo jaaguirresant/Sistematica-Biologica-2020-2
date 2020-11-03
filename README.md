@@ -169,7 +169,7 @@ La clase estará complementada con una tarea de cálculo manual de la verosimili
 
 #
 
-**Clase 7. Máxima Verosimilitud II e Inferencia Bayesiana.** Esta clase esté dividida en tres partes. La primera parte consiste de una charla sobre la implementación de la estadística bayesiana en el contexto de la inferencia filogenética (bajar diapositivas [aquí](/clase_7/clase_7.pdf). La segunda parte consiste en la demostración práctica de los siguientes análisis:
+**Clases 7 y 8. Máxima Verosimilitud II e Inferencia Bayesiana.** Esta clase esté dividida en tres partes. La primera parte consiste de una charla sobre la implementación de la estadística bayesiana en el contexto de la inferencia filogenética (bajar diapositivas [aquí](/clase_7/clase_7.pdf). La segunda parte consiste en la demostración práctica de los siguientes análisis:
 
 1. Máxima Verosimilitud en R ([ir al Script de R aquí](/clase_6/ML.R)). Para este ejercicio usaremos la matriz [ADN.nex](/clase_3/ADN.nex).
 
