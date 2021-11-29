@@ -14,12 +14,12 @@ Aprender a combinar la teoría y herramientas aprendidas en este módulo para ll
 
 |Grupo No.|Integrantes|Enlace videollamada|
 |---|---|---|
-Grupo_1|Ligia Juliana Acevedo Amaya, Maria Paula Arevalo Gomez, Samanta Melissa Arévalo Porras, Gabriel Andres Avila Martinez, Vladimir Briceño Pérez, Maria Camila Valdés Cardona|https://meet.google.com/txm-noak-kxe|
-Grupo_2|Fabian Andres Castro Romero, Jhon Fredy Chitiva Riveros, Laura Valeria Cubillos Ariza, Jonathan Stiven Espitia Romero, Sarha Marcela Garcia Rodriguez |https://meet.google.com/znt-nkgk-spt|
-Grupo_3|Victor Manuel Giral Diaz, Sergio Nicolas Gomez Luna, Julian David Gonzalez Pabon, Katherine Camila Guantiva Reina, Ivan Enrique Libreros Coronel|https://meet.google.com/fmm-vgjb-jfa|
-Grupo_4|Larry Estive Lopez Garcia, Angie Paola Martínez Pedraza, Julian Andres Paez Romero, Alejandro Palacios Cubillos, Daniela Parra Serrato|https://meet.google.com/vja-tcaj-tzk|
-Grupo_5|Leonardo Pinzón Avendaño, Hans Santiago Poveda Marroquin, Paula Manuela Rojas Zambrano, Miguel Angel Ruiz Cardozo, Ana Gabriela Sanchez Arango|https://meet.google.com/xsj-swtt-qrj|
-Grupo_6|Pablo Andres Segura Forero,  Andres Felipe Sora Martinez, Sebastian Tabares Segovia, Doris Daniela Tolosa Oliveros, Marlon Vladimir Tovar Bolaños, Lauren Sofia Yepes Fernandez|https://meet.google.com/pqb-zqob-aez|
+Grupo_1|¿¿|https://meet.google.com/txm-noak-kxe|
+Grupo_2|¿¿ |https://meet.google.com/znt-nkgk-spt|
+Grupo_3|¿¿|https://meet.google.com/fmm-vgjb-jfa|
+Grupo_4|¿¿|https://meet.google.com/vja-tcaj-tzk|
+Grupo_5|¿¿|https://meet.google.com/xsj-swtt-qrj|
+Grupo_6|¿¿|https://meet.google.com/pqb-zqob-aez|
 
 
 #### 2. Preguntas a resolver:
@@ -39,7 +39,7 @@ Desde Darwin y muchas décadas después, los llamados "grandes simios" (chimpanc
 
 **GRUPOS 3 y 4:**
 
-Las plantas del género _Gnetum_ han sido por muchas décadas un misterio para los botánicos, ya que tienen característcas intermedias entre una gimnosperma (p.e. semillas desnudas y estructuras reproductivas agrupadas en estróbilos) y una angiosperma (p.e. elementos del vaso en xilema, hojas de venación reticulada, doble fertilización y polinización zoocórica). Con base en esta información, surge la siguiente pregunta: ¿Es el género _Gnetum_ una gimnosperma, una angiosperma o ninguna de las dos?
+Las plantas del género _Gnetum_ han sido por muchas décadas un misterio para los botánicos, ya que tienen característcas intermedias entre una gimnosperma (p.e. semillas desnudas y estructuras reproductivas agrupadas en estróbilos) y una angiosperma (p.e. elementos del vaso en xilema, hojas de venación reticulada, doble fertilización y polinización por animales). Con base en esta información, surge la siguiente pregunta: ¿Es el género _Gnetum_ una gimnosperma, una angiosperma o ninguna de las dos?
 
 <p align="center">
   <img src="https://images.squarespace-cdn.com/content/v1/544591e6e4b0135285aeb5b6/1515445997181-DFSI4XBJNUCU3N0KD8VE/ke17ZwdGBToddI8pDm48kDEDYh4Y0JGhR6hzuwcJ44gUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcz6bs2FkMoqlrQIzq4g5ogDqXr_T7rMikH_TfPkEE4wwzGwe9KEhUq6A0DxOZf-75/6863727669_019293fded_b.jpg?format=750w" width="330" height="300" />
@@ -63,11 +63,11 @@ A pesar de las grandes ventajas evolutivas que las alas le confirieron a la mayo
 
 **b. Muestreo de caracteres:** deben ser secuencias de ADN, limitadas a 1–3 marcadores: (p.e. COI, 18S o CytB para animales y matK, trnLF, rbcl para plantas). Se pueden usar caracteres morfológicos también (opcional).
 
-**c. Análisis de inferencia filogenética:** usar uno o varios métodos de inferencia filogenética (p.e. distancias, Inferencia Hennigiana, Máxima Parsimonia, Máxima Verosimilitud, Inferencia Bayesiana).
+**c. Análisis de inferencia filogenética:** usar uno o varios métodos de inferencia filogenética (p.e. Inferencia Hennigiana, Máxima Parsimonia, Máxima Verosimilitud, Inferencia Bayesiana).
 
 **d. Medidas de confianza:** usar por lo menos una medida de soporte (p.e. bootstrap, Jacknife, Bremer, Probabilidad Posterior).
 
-#### 4. Presentación de resultados (Martes 10 de noviembre de 2020).
+#### 4. Presentación de resultados (Martes 11 de enero de 2022).
 
 a. Escribir un resumen tipo congreso de máximo 300 palabras donde describan las premisas del estudio, métodos, resultados y conclusión.
 
@@ -76,7 +76,7 @@ b. Preparar una presentación de diapositivas del estudio de máximo 10 minutos.
 
 #### 5. Discusión
 
-Después de que las tres presentaciones que responden a la misma pregunta hayan terminado, comenzará un bloque de discusión crítica entre los dos grupos que presentaron. La idea es que las preguntas sean críticas del estudio de sus compañeros y sepan defender sus propios resultados. Al final de las presentaciones y la discusión, el resto de sus compañeros y el profesor votarán por el estudio más convincente. Acá están las pautas de esta actividad:
+Después de que las presentaciones que responden a la misma pregunta hayan terminado, comenzará un bloque de discusión crítica entre los dos grupos que presentaron. La idea es que las preguntas sean críticas del estudio de sus compañeros y sepan defender sus propios resultados. Al final de las presentaciones y la discusión, el resto de sus compañeros y el profesor votarán por el estudio más convincente. Acá están las pautas de esta actividad:
 
 1. Cada grupo debe escoger de antemano a un miembro del grupo que servirá como vocero del grupo en la discusión. 
  
